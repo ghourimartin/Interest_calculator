@@ -1,0 +1,28 @@
+body 
+    {
+    background-color:rgb(31, 28, 28);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(13, 12, 15);
+    
+    }
+h1
+    {   
+    color:gray;
+    font-family: Verdana;
+    }
+
+.maindiv
+    {
+    background-color: rgb(239, 230, 230);
+    color: rgb(23, 22, 22);
+    width: 300px;
+    padding: 20px;
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 25px;
+    text-align: center;
+    }
+
+
